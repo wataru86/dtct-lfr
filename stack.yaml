@@ -1,0 +1,6 @@
+resolver: lts-10.8
+packages:
+  - ./hoogle-reuse
+extra-deps:
+  - http-conduit-2.3.0
+  - QuickCheck-2.11.1
